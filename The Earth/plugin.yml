@@ -1,0 +1,32 @@
+name: TheEarthPlugin
+version: 2.0.0
+description: Dit is de The Earth Plugin
+author: GiovanniM
+main: me.Gi0vanniM.TheEarth.Main
+load: STARTUP
+depend: [Vault]
+commands:
+  tedebug:
+  theearth:
+    aliases: [plugin, plugins, pl]
+  stats:
+  playtime:
+    aliases: [speeltijd]
+  land:
+  kolonie:
+  setrank:
+    aliases: [setrang]
+  setsubrank:
+    aliases: [setsubrang]
+  landdisban:
+  admin:
+  invite:
+    aliases: [landinvite]
+  uninvite:
+    aliases: [landkick, kick]
+  landkick:
+  pay:
+    aliases: [betaal]
+  payland:
+    aliases: [betaalland]
+  landrekening:

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="The Earth/src"/>
+	<classpathentry kind="lib" path="[]/plugins/NametagEdit.jar"/>
+	<classpathentry kind="lib" path="[]/plugins/Vault.jar"/>
+	<classpathentry kind="lib" path="[]/latest 1.12.2 l.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

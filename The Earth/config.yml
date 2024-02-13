@@ -1,0 +1,12 @@
+mysql:
+  host: localhost
+  port: 3306
+  database: the_earth
+  username: root
+  password: 
+  table:
+land:
+  maxsize: 20
+simulatie: false
+chat:
+  disabled: false

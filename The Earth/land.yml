@@ -1,0 +1,18 @@
+land: landnaam
+prefix: §8[§4land naam§8]§r
+landrekening: 5
+color: '&4'
+uurloon: 5000
+belasting: 50
+kracht: 0
+unix: 1549832600
+nexus:
+  health: 75
+  maxhealth: 75
+  locatie:
+    x: 157
+    y: 103
+    z: -991
+size: 0
+permissions:
+  - dynmap
